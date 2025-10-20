@@ -11,4 +11,4 @@ habilidades por enquanto giram em torno de:
 Atualmente, eu estou criando um projeto com meus amigos da faculdade chamado logSYS, que é um sistema de
 logística integrado com um Workflow, que faz falta pelo menos no meu dia-a-dia no meu emprego atual.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=mariiixr)](https://github.com/mariiixr/github-readme-stats)
