@@ -6,7 +6,7 @@ No momento, estou aprendendo Banco de Dados e é o que eu pretendo seguir como c
 
 Eu desenho por hobby, então essa minha parte criativa eu gosto muito de colocar a tona, então minhas
 habilidades por enquanto giram em torno de:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) ❣️
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) ❣️
 
 
 Atualmente, eu estou criando um projeto com meus amigos da faculdade chamado logSYS, que é um sistema de
