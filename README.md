@@ -1,5 +1,6 @@
 # mariixr
-Olá! ❣️ Me chamo Maria, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas. 💻
+Olá! ❣️
+Me chamo Maria, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas no 2nd semestre 💻
 
 No momento, estou aprendendo Banco de Dados e é o que eu pretendo seguir como carreira profissional :)
 
