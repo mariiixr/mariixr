@@ -9,7 +9,7 @@ habilidades por enquanto giram em torno de:
 -----------
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) ❣️
 
-
+-----------
 Atualmente, eu estou criando um projeto com meus amigos da faculdade chamado logSYS, que é um sistema de
 logística integrado com um Workflow, que faz falta pelo menos no meu dia-a-dia no meu emprego atual.
 
